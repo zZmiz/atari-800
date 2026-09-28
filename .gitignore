@@ -1,0 +1,54 @@
+# Build output
+build*/
+build/
+atari800/build*/
+*.o
+*.a
+*.elf
+*.uf2
+*.map
+*.dSYM/
+
+# User-supplied and generated game data
+*.xex
+*.atr
+*.xfd
+*.car
+*.rom
+*.bin
+*.sav
+*.srm
+*.chd
+*.wad
+
+# Local development records
+.private/
+artifacts/
+baselines/
+candidates/
+deploy/
+evidence/
+test-image/
+release-kit/
+tools/release/
+.claude/
+games/
+ACCEPTANCE.md
+HANDOFF.md
+task.md
+tools/
+atari800/boards/
+atari800/cmake/
+atari800/*
+!atari800/CMakeLists.txt
+!atari800/COPYING
+!atari800/src/
+!atari800/drivers/
+!atari800/pico_shared/
+
+# Local caches and OS files
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/

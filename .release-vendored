@@ -1,0 +1,5 @@
+atari800/src/roms
+atari800/drivers/fatfs
+atari800/drivers/sdcard
+atari800/drivers/usb_input
+atari800/drivers/hstx

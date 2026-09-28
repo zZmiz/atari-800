@@ -1,0 +1,12 @@
+[submodule "external/pico-sdk"]
+	path = external/pico-sdk
+	url = https://github.com/raspberrypi/pico-sdk.git
+[submodule "external/Pico-PIO-USB"]
+	path = external/Pico-PIO-USB
+	url = https://github.com/sekigon-gonnoc/Pico-PIO-USB.git
+[submodule "external/tinyusb"]
+	path = external/tinyusb
+	url = https://github.com/hathach/tinyusb.git
+[submodule "external/pico_shared"]
+	path = external/pico_shared
+	url = https://github.com/fhoedemakers/pico_shared.git
